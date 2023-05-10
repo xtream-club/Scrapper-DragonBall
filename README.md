@@ -1,6 +1,6 @@
-Dragon-Ball-API
+Scrapper-DragonBall
 ===============
-Api unofficial de Dragon Ball inspirado en su fandom. <https://dragonball.fandom.com/es/wiki/Dragon_Ball_Wiki_Hispano>. Esta api nos permite obtener datos de personajes, sagas, fusiones, lugares y videojuegos de manera sencilla. Para poder utilizarlo en nuestras aplicaciones.
+Scrapper unofficial de Dragon Ball inspirado en su fandom. <https://dragonball.fandom.com/es/wiki/Dragon_Ball_Wiki_Hispano>. Esta api nos permite obtener datos de personajes, sagas, fusiones, lugares y videojuegos de manera sencilla. Para poder utilizarlo en nuestras aplicaciones.
 
 Requerimientos
 ============
